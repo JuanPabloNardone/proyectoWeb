@@ -1,4 +1,9 @@
 .titulo{
-    color: blue;
-    background-color: lightblue;
+    color: red;
+    background-color: lightcoral;
+}
+
+#parrafo {
+    font-size: 22px;
+    color: salmon;
 }
